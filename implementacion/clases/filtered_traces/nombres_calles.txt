@@ -1,0 +1,1111 @@
+Vilanova Park @@@ 8242333
+Camí del Mas Roquer @@@ 8242359
+Carretera de Vilanova i la Geltrú a la Bisbal del Penedès C-434 | BV-2115 @@@ 8242888
+Càmping Vilanova Park @@@ 8242904
+Avinguda del Riu Foix @@@ 8242926
+NOT FOUND e8746fba-f38b-4089-865e-63c08c5b9a2c @@@ 8242951
+Ronda Ibèrica @@@ 8242989
+Rambla de l'Exposició @@@ 8243000
+Avinguda de Víctor Balaguer @@@ 8243001
+Avinguda del Ferrocarril @@@ 8243004
+Carrer de la Unió @@@ 8243006
+Rambla de Josep Tomàs Ventosa @@@ 8243008
+Cruïlla de l'Esperança @@@ 8243014
+Carrer de la Metal·lúrgia @@@ 8243021
+4 Carrer de la Piera @@@ 8243023
+Carrer de la Piera @@@ 8243025
+Carrer de Solicrup @@@ 8243038
+Carrer de Sebastià Gumà @@@ 8243049
+Carrer de la Masia Torrents @@@ 8243052
+Avinguda d'Eduard Toldrà @@@ 8243065
+Ronda Europa @@@ 8243081
+NOT FOUND 9bbd241f-2c86-4dc1-a5ba-54bcbba41ac2 @@@ 8243104
+Camí de Santa Magdalena @@@ 8243262
+NOT FOUND db26df40-6157-4f75-9c48-7144c68de4b6 @@@ 30054248
+NOT FOUND 4cad2a4e-ea4d-4c29-8627-8fa521d1046c @@@ 30054249
+Camí del Corral d'en Tort @@@ 30154689
+Camí de Cal Baró @@@ 30173158
+Camí del Mas de la Miquela @@@ 30173160
+Camí de la Bassa d'en Creixell @@@ 30173161
+NOT FOUND cf357bec-0471-4ba3-8619-61e44f58d7c9 @@@ 33139501
+NOT FOUND 870a622e-91cb-44ee-9ef6-715d7694ec06 @@@ 34125938
+Carrer Josep Coroleu @@@ 34125939
+Rambla de Lluis Companys @@@ 34125940
+Carrer de Pere el Cerimoniós @@@ 34125941
+NOT FOUND ff8a60b7-7cd6-48d9-b40f-5f13e303786b @@@ 34156747
+Passeig Marítim de Ribes Roges @@@ 34156751
+NOT FOUND 5fd58aa8-321a-4221-8650-7778634caac7 @@@ 35960099
+NOT FOUND 08ed43c7-03f5-42da-944c-fd0cdb8e124e @@@ 35960100
+C-31>C-246a Vilanova i la Geltrú (Platja) @@@ 35960102
+NOT FOUND 920f5c50-44f7-4ae4-b715-c6cb8bd011ab @@@ 37591570
+C-15 Eix Diagonal @@@ 37591571
+Eix Diagonal @@@ 37591572
+Carretera de Barcelona @@@ 37591585
+Carrer de les Canàries @@@ 37846074
+Carrer de Ventosa i Roig @@@ 40439044
+NOT FOUND 3f3f7627-c057-4fdb-9c95-ada2ff2c1ec9 @@@ 40439047
+Passeig del Carme @@@ 40439049
+Carrer Àncora @@@ 40439051
+Avinguda del Garraf @@@ 40439055
+Plaça de la Moixiganga @@@ 40439058
+Pujada del Far de Sant Cristòfol @@@ 41289816
+Carrer d'Eugeni d'Ors @@@ 41289817
+Passeig Marítim @@@ 41290232
+Carrer de Ramon Muntaner @@@ 43177450
+Carrer de Roger de Flor @@@ 43177451
+Rambla de Lluís Companys @@@ 43177452
+Carrer d'Isaac Peral @@@ 43177453
+Carrer Joan d'Àustria @@@ 43177454
+Carrer Alexandre de Cabanyes @@@ 43177455
+Carrer de Pelegrí Ballester @@@ 48874548
+Rambla de Sant Jordi @@@ 48874549
+Carrer del Montseny @@@ 48874552
+Carrer Josep Anselm Clavé @@@ 48874553
+Carrer de Tarragona @@@ 48874554
+Avinguda Francesc Macià @@@ 48875267
+Carrer de Menéndez Pelayo @@@ 48875268
+Carrer Bailén @@@ 48875271
+Rambla dels Països Catalans @@@ 48875890
+Carrer Joan Maragall @@@ 48875895
+Rambla de Joan Baptista Pirelli @@@ 48875897
+Carrer de Sant Pius X @@@ 48876872
+Carrer de Ponent @@@ 48876875
+Camí de l'Ortoll @@@ 48877148
+Carrer dels Navegants @@@ 49455832
+Avinguda de Rocacrespa @@@ 49455835
+Rambla Principal @@@ 49455836
+Avinguda de la Torre del Vallès @@@ 49549570
+Passeig de Salvador Espriu @@@ 49549572
+Passeig de Voramar @@@ 49549577
+Carrer d'Antonio Rubio @@@ 49549593
+Rambla de la Pau @@@ 49744694
+Carrer de la Llibertat @@@ 49744695
+Avinguda de la Collada @@@ 49850356
+Carrer del Riu Guadiana @@@ 49850371
+Carrer del Riu Ebre @@@ 49850372
+Avinguda dels Sis Camins @@@ 49850373
+Carrer d'Albert Virella @@@ 49875723
+Carrer de la Fassina @@@ 49875727
+Carrer de l'Aigua @@@ 49875735
+Carrer del Margalló @@@ 49875736
+Carrer de la Turbina @@@ 49875737
+Carrer dels Mercaders @@@ 49875738
+Carrer de l'Església @@@ 49875739
+Carrer d'Olesa de Bonesvalls @@@ 49875741
+Carrer de Narcís Monturiol @@@ 49938960
+Camí de l'Aparcament a la Platja del Far @@@ 49938964
+Carrer de Martí Torrents @@@ 49938972
+NOT FOUND 87044cf6-c8b8-4d55-8842-e7349e8bdabb @@@ 50185534
+Camí de Mas Ricard @@@ 53095116
+Camí de la Serra del Gat @@@ 53096482
+Camí del Mas d'en Mata @@@ 54728849
+Camí de la Plana - Carretera de les Fundicions @@@ 58226584
+Carrer d'Hernani @@@ 61788748
+BV-2112 Crta. vella a Sant Pere de Ribes @@@ 64962422
+NOT FOUND 6ce84706-37bf-4480-9ca6-a8b922e55d61 @@@ 65080714
+Carrer de les Roses @@@ 65080728
+Carrer de Josep Tarradellas @@@ 65080729
+AKI @@@ 74467109
+Carrer de les Roquetes @@@ 74467110
+Rond Europa @@@ 74467112
+Carrer de Guillem Rovirosa @@@ 74467115
+Carrer de Puigcerdà @@@ 76687987
+Cami del Mas d`Artis @@@ 80327471
+Camí del Mas de l'Artís @@@ 80327475
+Cami del Mas Tapet @@@ 80327477
+Autopista Pau Casals @@@ 80327479
+Cami de Mas Tapet @@@ 80327509
+Camí de Vilanova i la Geltrú al Mas de l'Artís @@@ 80331203
+Camí del Punt de Mitjotes @@@ 80331204
+Mas de l'Artís @@@ 80331205
+Maset del Safont @@@ 80331207
+Camí de la Serra del Teixidor @@@ 80352418
+Carrer del Joncar @@@ 80560707
+Carrer de la Nansa @@@ 80560708
+Carrer de les Ones @@@ 80580001
+Avinguda del Prat @@@ 80580003
+Passeig del Molí de Mar @@@ 81477972
+Carrer de la Moixarra @@@ 81477975
+Plaça Adarró @@@ 81477978
+Moll de Ponent @@@ 81477980
+Camí dels Colls @@@ 81477981
+Carrer del Prat @@@ 82155886
+Carrer del Llagut @@@ 82155887
+Carrer dels Aiguamolls @@@ 82467134
+Carrer de les Gavines @@@ 83133549
+Carrer de la Fitora @@@ 83133550
+Carrer dels Esculls @@@ 83133551
+Carrer de les Xarxes @@@ 83133555
+Carrer de les Dunes @@@ 83133558
+Carrer dels Carlets @@@ 97282380
+Carrer dels Boters @@@ 97282382
+Carrer de les Balears @@@ 97282389
+Plaça de la Rajanta @@@ 97507718
+Avinguda del Penedès @@@ 97507719
+Carrer de Magdalena Miró @@@ 97507720
+Carrer de Pere Riudor @@@ 97507722
+Carrer de la Sínia de les Vaques @@@ 97507724
+Carrer de la Immaculada Concepció @@@ 97507736
+Rambla de Salvador Samà @@@ 97507738
+Carrer d'El Greco @@@ 97590004
+Carrer del Bruc @@@ 97590014
+Carrer de Pàdua @@@ 97765972
+plaça de Soler i Gustems @@@ 97765974
+Carrer de Sant Felip Neri @@@ 97765979
+Avinguda de la Terrosa @@@ 97896763
+Carrer de Sant Sebastià @@@ 97896769
+Carrer de la Providència @@@ 97896772
+Carrer de Bilbao @@@ 97896774
+Carrer de Joan Ricart @@@ 97896820
+Carrer del Doctor Fleming @@@ 97896844
+Carrer de Santa Eulàlia @@@ 97896847
+Carrer del Xoriguer @@@ 97896853
+Passatge de Solicrup @@@ 97896860
+Carrer de Sant Gervasi @@@ 98003523
+Carrer de Josep Llanza @@@ 98003525
+Carrer de la Restauració @@@ 98003527
+Carrer del Vapor @@@ 98003529
+carrer de Sant Francesc @@@ 98003531
+Carrer de l'Havana @@@ 98003534
+Carrer de Lleida @@@ 98003535
+Plaça de Soler i Carbonell @@@ 98003544
+Carrer de Sant Pere @@@ 98003548
+passatge de l'indià @@@ 98003551
+Carrer de Manuel Marquès @@@ 98010598
+Carrer de Lluís Maria Xirinacs @@@ 98039798
+Carrer del Jardí @@@ 98039804
+Carrer de l'Arquitecte Gaudí @@@ 98044560
+Carrer del Teatre @@@ 98044561
+carrer del Montmell @@@ 98044578
+Carrer de la Pastera @@@ 98050239
+Carrer del Pare Garí @@@ 98050241
+Camí vell de Cubelles @@@ 98050243
+Plaça Llarga @@@ 98050245
+carrer de les Premses @@@ 98050248
+Plaça del Cap de Creu @@@ 98050249
+Carrer Tarragona @@@ 98050252
+Plaça de Catalunya @@@ 98050253
+Camí vell de Vilanova i la Geltrú a Cubelles @@@ 98050256
+Carrer de la Masia d'en Notari @@@ 98059877
+Plaça de la Masia d'en Notari @@@ 98059878
+Passatge de la Masia d'en Notari @@@ 98059879
+Avinguda de Vilafranca del Penedès @@@ 98059880
+Carrer de la Calç @@@ 98059882
+Carrer de Ferrer i Vidal @@@ 98059884
+carrer de Santa Magdalena @@@ 98059885
+Plaça Miró de Montgrós @@@ 98059897
+Carrer de la Fruita @@@ 98059900
+Avinguda de Jaume Balmes @@@ 98060796
+Carrer de la Bomba @@@ 98110933
+carrer de Santa Anna @@@ 98110939
+Carrer Manuel de Cabanyes @@@ 98112950
+C-246a>C-31 Tarragona @@@ 98114870
+Pas sota la Via d'Adarró @@@ 98114871
+Camí del Fondo de Sant Gervasi @@@ 98114874
+C-246a Carretera de Vilanova a Cubelles @@@ 98114875
+carrer de la Iserna @@@ 98114885
+carrer Esparrall @@@ 98114887
+C-31>C-246a Vilanova i la Geltrú @@@ 98114889
+Carrer del Canigó @@@ 98114892
+Lateral Ronda Europa @@@ 98205999
+Vilanova i la Geltrú @@@ 98206000
+Carrer de Sitges @@@ 98206013
+McDonalds McAuto @@@ 98206023
+Carrer de la Vilanoveta @@@ 98206026
+Carrer del Pont @@@ 98206043
+Passatge de Ribes @@@ 98206061
+Carrer de Cristòfol Raventós @@@ 98206081
+Carrer de Bonaire @@@ 98206089
+pujada del Cinto @@@ 98206092
+Carrer del Fossar Vell @@@ 98215607
+Carrer de les Sogues @@@ 98215608
+Carrer de Montserrat @@@ 98215609
+carrer de Mossén Narcís Font @@@ 98215610
+Carrer de les Casernes @@@ 98215611
+Carrer Albert Salvany @@@ 98215612
+Carrer de la Mare Isabel Ventosa @@@ 98215613
+carrer Tarragona @@@ 98215614
+Carrer dels Horts @@@ 98215615
+Carrer de la Creu @@@ 98215616
+carrer de la Torre @@@ 98215618
+Carrer de Francesc de Sales i Vidal @@@ 98215619
+carrer dels Terrissaires @@@ 98215620
+Carrer del Rei Jaume I @@@ 98215621
+Carrer de la Muralla @@@ 98215622
+Carrer de Sant Magí @@@ 98215624
+Carrer del Palmerar @@@ 98215627
+Carrer de Salvador Raldiris @@@ 98215629
+carrer del Castell @@@ 98215630
+Carrer de Sant Josep @@@ 98215631
+Carrer del Palmerar de Dalt @@@ 98215632
+Carrer dels Terrissaires @@@ 98215635
+Carrer de Josep Calva @@@ 98215636
+Carrer de Santa Madrona @@@ 98215637
+Carrer de Josep Freixes @@@ 98215638
+Carrer de l'Escorxador @@@ 98215639
+Carrer Major @@@ 98215642
+Carrer Nou @@@ 98215645
+Carrer del Fanaler @@@ 98215646
+Carrer de l'Argenteria @@@ 98215647
+Carrer de la Creu de Xirivia @@@ 98215648
+Carrer dels Arengaders @@@ 98215649
+Carrer del Campanar @@@ 98215650
+Camí de la Masia d'En Frederic @@@ 98215652
+Carrer de Joaquim Mir @@@ 98215653
+Carrer del Llimonet @@@ 98215655
+Carrer de les Tires @@@ 98215658
+Carrer del Palmerar de Baix @@@ 98215659
+Carrer del Mig @@@ 98215660
+Carrer de Santa Maria @@@ 98216214
+Carrer dels Corralets @@@ 98216217
+Carrer de Francesc Ivern @@@ 98216220
+Carrer de Manuel Tomàs @@@ 98216224
+Carrer de la Mercè @@@ 98216227
+Carrer de Santa Gertrudis @@@ 98216229
+Carrer de Josep Pers i Ricart @@@ 98216230
+Carrer del Col·legi @@@ 98216231
+Rambla de la Torre de l'Onclet @@@ 98258425
+Raval de Santa Magdalena @@@ 98258426
+carrer dels Crespellins @@@ 98258428
+Avinguda Eduard Toldrà @@@ 98258436
+Carrer del Guix @@@ 98258440
+carrer de la Masia Cabanyes @@@ 98258443
+Carrer de la Indústria @@@ 98258445
+Carrer de Josep Maria Bultó @@@ 98258449
+Carrer d'Eduard Toldrà @@@ 98390309
+Carrer dels Plàtans @@@ 98390370
+Carrer del Gas @@@ 98604163
+Avinguda del Terme @@@ 98608354
+Carrer de Bernat de Vilamarí @@@ 98990108
+Ronda de la Mar Mediterrània @@@ 98990110
+carrer de les Roquetes @@@ 98990111
+Plaça d'Adarró @@@ 98990115
+Carrer de Lepant @@@ 98990116
+Platja del Far @@@ 98990118
+Carrer de Roger de Llúria @@@ 98990121
+Carrer de Juan de la Cosa @@@ 98990124
+Carrer de Ramon Marquet @@@ 98990125
+Lateral Passeig Marítim @@@ 98990131
+Camí Net @@@ 98990132
+68 Avinguda Eduard Toldrà @@@ 98990137
+Carrer de Marcel·lina Jacas @@@ 98990141
+Avinguda de Cubelles @@@ 98990142
+NOT FOUND 550e8921-063f-40e6-9a50-fcf95f2f9069 @@@ 98990143
+Carrer de la Fita @@@ 98990147
+Carrer de Ramon Llull @@@ 98990153
+Carrer de Juan Sebastián Elcano @@@ 98990154
+Carrer de Lluís de Requesens @@@ 98990156
+Carrer de Joaquim Blume @@@ 98990158
+Carrer de la Torre d'Enveja @@@ 98990800
+Aparcament Jutjats @@@ 100550247
+Andana @@@ 100550250
+Carrer d'Avel·lí Artís Gener "Tisner" @@@ 100550265
+Passeig de la Fita @@@ 100550270
+Carrer d'Antoni Maria Alcover @@@ 100550271
+NOT FOUND 458ae26a-d77b-4d48-96a7-433319bbd8c5 @@@ 100550272
+Àncora - Balears @@@ 100550280
+Platja dels Colls @@@ 101411184
+Carrer Sant Antoni @@@ 102199415
+Carrer Sumella @@@ 102607890
+Carrer Quadre de Gallifa @@@ 102607894
+Carrer Nostra Senyora de la Mercè @@@ 103565697
+Camí del Fondo de les Oliveres @@@ 103851766
+Camí de Canyelles a Mas de l'Artís @@@ 103851772
+carrer de la Moixarra @@@ 105954164
+Carrer del riu Tajo @@@ 106197250
+Carrer del Quixot @@@ 106197251
+Carrer del Riu Segura @@@ 106197252
+carrer del riu Guadalquivir @@@ 106197254
+Carrer de l'Espígol @@@ 106197258
+Carrer del Rasot @@@ 106197260
+Carrer de l'Aigua Nova @@@ 106197261
+Carrer de Mèrida @@@ 106197265
+Carrer de Sant Joaquim @@@ 106197268
+Carrer del riu Guadalquivir @@@ 106197270
+Carrer de Joan Fuster @@@ 106197505
+Carrer del Cardenal @@@ 106197507
+Carrer de l'Alosa @@@ 106197508
+Carrer de les Atzavares @@@ 106197509
+Carrer del Gafarró @@@ 106197512
+Carrer de l'Oreneta @@@ 106197514
+Rambla Arnau de Vilanova @@@ 106197516
+Carrer del Pit-roig @@@ 106197519
+Carrer del Rossinyol @@@ 106197522
+Carrer del Colibrí @@@ 106197524
+Carrer de la Cadernera @@@ 106197526
+Carrer del Molí de Vent @@@ 106197527
+Carrer del Pi @@@ 106197530
+Carrer de l'Aneto @@@ 106495704
+Carrer de Lurdes @@@ 106495705
+Carrer de Ca L'Escoda @@@ 106495707
+Carrer del Besiberri @@@ 106495709
+Carrer de la Divina Pastora @@@ 106495711
+Carrer de Viladellops @@@ 106495712
+Carrer de Doménech i Montaner @@@ 106495713
+Carrer del riu Segre @@@ 106495715
+Carrer dels Garrofers @@@ 106495717
+Carrer de Montanyans @@@ 106495718
+Carrer de Puig i Cadafalch @@@ 106495722
+Carrer del Pedraforca @@@ 106495724
+Passatge dels Sis Camins @@@ 106495725
+Passatge de Rocacrespa @@@ 106495731
+Carrer del Montardo @@@ 106495732
+Carrer del Moixeró @@@ 106495735
+Carrer del Puigmal @@@ 106495737
+carrer dels Serrallers @@@ 106495738
+Carrer de Miquel Guansé @@@ 106495740
+Carrer del Cadí @@@ 106495741
+Carrer de la Pica d'Estats @@@ 106495742
+Carrer d'Olèrdola @@@ 106495746
+carrer dels Rosers @@@ 106495747
+Carrer Córdova @@@ 106576894
+Carrer del Riu Duero @@@ 106576897
+Carrer José de Espronceda @@@ 106576898
+Carrer del Montsant @@@ 106576900
+NOT FOUND b570cde5-edeb-4a19-8fd7-b6a390589dbb @@@ 106576902
+NOT FOUND 80a56f75-3d9d-4abd-98c4-0af6261b8a07 @@@ 106576903
+Carrer del Fraig @@@ 106576905
+carrer de la Ginesta @@@ 106576906
+NOT FOUND d2435c7a-ca92-4505-bb8b-fcd13078562f @@@ 106577008
+Carrer de l'Aigua Vella @@@ 106580156
+Carrer de la Creu de Garí @@@ 106580157
+Carrer de la Talaia @@@ 106580158
+Ronda d'Amèrica @@@ 106580160
+Carrer de la Riera de Marmellar @@@ 106580163
+Carrer de Sant Miquel @@@ 106580165
+Carrer de la Riera de Pontons @@@ 106580166
+Carrer del Montgrós @@@ 106580169
+Carrer del Mas d'en Palau @@@ 106580172
+Passatge de Lurdes @@@ 106580173
+Plaça de la Forca @@@ 106580175
+Avinguda de Somella @@@ 106580179
+Carrer del Xartell @@@ 106580180
+Carrer del Jou @@@ 106580183
+Carrer d'Albert Einstein @@@ 106580184
+carrer John Lennon @@@ 106580188
+Carrer del Fes @@@ 106580192
+Carrer del Trill @@@ 106580197
+Carrer de l'Arada @@@ 106580198
+Carrer dels Til·lers @@@ 106580711
+Carrer dels Oms @@@ 106580713
+Carrer de les Magnòlies @@@ 106580717
+Carrer del Fondo de Somella @@@ 106580719
+Carrer de les Mèlies @@@ 106580720
+Carrer de la Falç @@@ 106608916
+Carrer dels Àlbers @@@ 106608917
+Passeig dels Salzes @@@ 106608918
+Carrer de la Portadora @@@ 106608919
+Carrer de la Falcilla @@@ 106608920
+Carrer del Garbell @@@ 106608922
+Carrer de l'Agricultura @@@ 106608924
+Carrer dels Tamarius @@@ 106608925
+carrer de la Podadora @@@ 106608926
+Carrer García Lorca @@@ 106608929
+carrer de la Fanga @@@ 106608930
+Carrer dels Pebrers @@@ 106608933
+Carrer de la Dalla @@@ 106608935
+Pstg. de la Dalla @@@ 106608937
+Carrer de l'Esclopet @@@ 106608938
+Carrer dels Arpiots @@@ 106608940
+Carrer riu Ebre @@@ 106608942
+Carrer de la Fanga @@@ 106608944
+Carrer del Magall @@@ 106608948
+Plaça de la Podadora @@@ 106608951
+Carrer de l'Aixada @@@ 106608952
+carrer de la Falç @@@ 106608953
+Carrer de la Sàrria @@@ 106608955
+Carrer del Caveguet @@@ 106608956
+Carrer Antonio Machado @@@ 106608957
+Carrer del Càvec @@@ 106608959
+Carrer dels Castanyers @@@ 106608961
+Carrer de les Mimoses @@@ 106608962
+Carrer dels Lilàs @@@ 106608964
+Carrer del Rampí @@@ 106608965
+Carrer del Tiràs @@@ 106608967
+Carrer Lluis Millet @@@ 106621255
+Carrer Isaac Albeniz @@@ 106755515
+Carrer d'Andreu Planes @@@ 106918095
+Carrer de Sant Onofre @@@ 106918097
+Carrer de l'Economia @@@ 106918100
+Carrer Gaspar d'Avinyó @@@ 106918101
+Carrer de la Gornal @@@ 106918106
+Carrer de les Roques del Pelut @@@ 106918107
+Passatge del Textil @@@ 106918108
+Carrer de Canyelles @@@ 106918110
+Carrer de Ramón y Cajal @@@ 106918113
+carrer del Bages @@@ 107379083
+Carrer de Sevilla @@@ 107379085
+carrer de l'Anoia @@@ 107379086
+carrer de Badajoz @@@ 107379087
+carrer de Saragossa @@@ 107379088
+carrer de València @@@ 107379089
+carrer de Valladolid @@@ 107379090
+Carrer de Girona @@@ 107379091
+Carrer de l'Urgell @@@ 107379500
+camí de la Masia d'en Frederic @@@ 107379501
+Rambla de Pep Ventura @@@ 107379502
+Carrer d'Àusias March @@@ 107379503
+Carrer d'Aragó @@@ 107379504
+carrer de la Fuensanta @@@ 107379598
+Camí de l'Arboç @@@ 107395544
+Camí de les Mandarines @@@ 107395546
+Camí de les Nogueres @@@ 107395547
+Camí dels Freixes @@@ 107395548
+Camí de les Sureres @@@ 107395549
+Camí dels Cirerers @@@ 107395550
+Camí dels Albercoquers @@@ 107395551
+Camí Vell @@@ 107395552
+Camí dels Avellaners @@@ 107395553
+Camí de les Palmeres Datileres @@@ 107395554
+Camí dels Avets @@@ 107395555
+Camí de les Pereres @@@ 107395556
+Camí dels Eucaliptus @@@ 107395557
+Camí dels Nesprers @@@ 107395558
+Camí Ral de la Masia Cabanyes @@@ 107395559
+Camí dels Presseguers @@@ 107395561
+Camí dels Arcos @@@ 107395562
+Camí de la Masia Xicarró @@@ 107395563
+Camí dels Tells @@@ 107395564
+Camí dels Plataners @@@ 107395566
+Camí dels Xops @@@ 107395567
+Camí de les Pomeres @@@ 107395568
+Carrer de Matanzas @@@ 107396259
+Carrer de Cuba @@@ 107396260
+carrer del Pau de l'Hostal @@@ 107488379
+Carrer de la Pedrera @@@ 107489835
+Carrer de la Castanyola @@@ 107489848
+Avinguda de l'Aiguadolç @@@ 107489849
+Punta Llarga @@@ 114813666
+Camí del Colls @@@ 114925130
+els Colls @@@ 114926565
+Camí Molinant @@@ 114965024
+Camí del Mas Torrat @@@ 115332252
+Camí del Torrent de les Oliveres @@@ 115332254
+Camí de Mas Parellada @@@ 115332257
+Camí de Llacunalba @@@ 115347082
+Camí dels Escalons o de Cal Baró @@@ 115347087
+(C-32); Manresa; Vilafranca P.; Vilanova; i la Geltrú @@@ 115371800
+Avinguda d'Astúries @@@ 115371808
+Camí de la Plana @@@ 115659773
+Camí de la Masia Parellada @@@ 115674438
+Plaça dels Ocells @@@ 115674445
+Carrer de Sant Roc @@@ 115676342
+Carrer de la Masia Nova @@@ 115677985
+carrer dels Pardals @@@ 115677990
+Carrer de Roser Dolcer @@@ 115678000
+NOT FOUND d9cab866-547b-4dca-8460-865722a6ad43 @@@ 115682145
+Camí del Mas de l'Artís - Torrent de la Pastera @@@ 115682148
+Passatge de la Carrerada @@@ 119184080
+Carrer dels Pirineus @@@ 119184081
+Carrer Montseny @@@ 119196026
+Carrer Joan Llaverias @@@ 119196031
+Plaça Beatriu de Claramunt @@@ 119203008
+Plaça de l'Anxaneta @@@ 119203294
+Plaça Xoriguer @@@ 119203748
+Carrer Abat Escarré @@@ 119205454
+Carril Bici Torrent de Sant Joan @@@ 119206154
+carrer de la Masia d'en Dimes @@@ 119207328
+Plaça Enric Cristòfol Ricard @@@ 119207329
+Plaça de les Cols @@@ 119207854
+carrer de Sant Gregori @@@ 119207858
+Camí Ral del Fondo Somella @@@ 119210408
+NOT FOUND a031ca83-1621-4e2e-bccd-70d4e1bc222f @@@ 126566919
+Sector de Mas Ricart @@@ 126570880
+Camí del Corral d'en Roc @@@ 126570881
+Antic camí del Mas de l'Artís @@@ 126570882
+Camí del Mas Roig @@@ 126570883
+Camí de Tarragona @@@ 126570885
+Carrer dels Natzarens @@@ 126570886
+Carrer de la Pallissa @@@ 126570887
+Carrer de la Revetlla @@@ 126570889
+Carrer de Barcelona @@@ 126570892
+Camí de les Alfàbregues @@@ 126570893
+Camí dels Tamarius @@@ 126570894
+Camí de les Esparragueres @@@ 126570895
+Camí dels Geranis @@@ 126570896
+Àrea de Servei Garraf 24/7 @@@ 126573256
+Plaça dels Cotxes @@@ 126730382
+Carrer dels Estudis @@@ 127736754
+Carrer Josep Anton Marquès @@@ 127736755
+(BV-2115); Vilanova oest;i la Geltrú;L'Arboç @@@ 129506593
+Rambla del Castell @@@ 129506896
+BV-2115 Crta. Vilanova i la Geltrú - L'Arboç @@@ 147214874
+Camí del Mas Gros @@@ 147214888
+Carrer de les Oliveres @@@ 149849476
+Carrer de l'Escoplet @@@ 150990968
+Carrer del Vinyet @@@ 150990969
+pstg. de la Pastorella @@@ 150990970
+Carrer de l'Estaca @@@ 150990972
+Passatge del Trencapinyes @@@ 150990973
+Pstg. de la Podadora @@@ 150990975
+Carrer del Romaní @@@ 150992434
+Carrer dels Estornells @@@ 150993102
+Carrer de la Calàndria @@@ 150993103
+Passatge dels Estornells @@@ 150993104
+Pstg. del Cardenal @@@ 150993105
+Passatge de l'Alosa @@@ 150993107
+carrer de Cunit @@@ 150994841
+carrer del Vendrell @@@ 150994842
+Pstg. de la Farigola @@@ 150994843
+Carrer Castellet @@@ 150994844
+carrer dels Baladres @@@ 150994845
+carrer del Boix @@@ 150994846
+carrer de Calafell @@@ 150994848
+Carrer de l'Estany @@@ 150999731
+Carrer de les Barques @@@ 151002528
+Carrer de Pere Jacas @@@ 151002532
+Carrer del Marquesat de Marianao @@@ 151002533
+Carrer de Soler i Morell @@@ 151002534
+Carrer dels Tres Llampecs @@@ 151003698
+Carrer del Forn del Vidre @@@ 151040873
+pstg. de Joaquim Blume @@@ 151040874
+Carrer de Montserrat Roig @@@ 151040875
+Carrer de Joan Brossa @@@ 151040881
+Carrer de Vicent Andrés Estellés @@@ 151040882
+Carrer de les Germanes Rosell @@@ 151040886
+Carrer de Font i Vilaseca @@@ 151040887
+Carrer de Mossèn Cinto Verdaguer @@@ 151040888
+Carrer de Frederic Mistral @@@ 151040891
+Carrer de Maria Mercè Marçal @@@ 151040892
+Carrer de Teresa Mañé @@@ 151040894
+Carrer de Panxo Ferrer @@@ 151040899
+carrer de Francesc Puig i Figueres @@@ 151040902
+Carrer de les Sínies @@@ 151043661
+Carrer de Josep Mascaró @@@ 151043663
+Carrer de la Lluna @@@ 151043666
+Carrer del Correu @@@ 151043668
+Carrer de l'Ametller @@@ 151043670
+Carrer de l'Arquebisbe Armanyà @@@ 151043671
+Carrer del Ravalet @@@ 151043672
+Carrer de l'Hospital @@@ 151043673
+carrer de la Rectoria @@@ 151043674
+Carrer del Tigre @@@ 151043675
+carrer de Jordi Puig-La Calle @@@ 151043678
+Carrer de les Roques @@@ 151043679
+Carrer de Sant Antoni @@@ 151043682
+Carrer de Miguel de Cervantes @@@ 151049142
+Carrer dels Escolapis @@@ 151049145
+Passatge del Garraf @@@ 151049147
+Carrer de Sant Cristòfol @@@ 151049150
+Carrer de Sant Pau @@@ 151049152
+Carrer de Tetuan @@@ 151049153
+Carrer de la Salut @@@ 151049157
+Carrer Caputxins @@@ 151049158
+Carrer de Sant Joan @@@ 151049160
+Carrer del Codonyat @@@ 151049164
+Carrer del Parlament @@@ 151053244
+Carrer dels Picapedrers @@@ 151053245
+Carrer dels Artesans @@@ 151053246
+Carrer del Recreo @@@ 151053247
+Carrer de Mossén Cots @@@ 151053248
+rasa del Miquelet @@@ 151053249
+Carrer del Taronger @@@ 151053250
+carrer de l'Ordi @@@ 151054157
+carrer de les Bardisses @@@ 151054159
+Carrer del Fonoll @@@ 151054160
+Psstg. de Teodor Creus i Corominas @@@ 151054161
+Carrer de Teodor i Corominas @@@ 151054162
+travessia de Sant Onofre @@@ 151054164
+Carrer de les flors @@@ 151054824
+Carrer de Mallorca @@@ 151060367
+Carrer del Pare Pibernat @@@ 151060368
+Carrer de Menorca @@@ 151060369
+carrer de Lleó @@@ 151060370
+carrer d'Eivissa @@@ 151060371
+psstg. de Valladolid @@@ 151060372
+carrer d'Alacant @@@ 151060373
+Carrer de Pau Roig i Estradé @@@ 151061266
+Carrer d'Antoni Urgellès @@@ 151061269
+Carrer de Josep Verdú @@@ 151061270
+Carrer de Josep Francesc Ràfols @@@ 151061272
+Carrer de Ventureta Mestres i Gras @@@ 151061273
+Carrer dels Llorers @@@ 151066157
+Carrer de les Xicrandes @@@ 151066455
+Carrer dels Roures @@@ 151066456
+de la Lluerna @@@ 151073935
+Carrer de la Pineda @@@ 151531018
+Carrer Saragossa @@@ 151531019
+Carrer de Jaén @@@ 151535941
+Carrer d'Almeria @@@ 151535945
+Carrer de Saragossa @@@ 151535948
+Carrer del Sol @@@ 151535950
+Plaça de Charlie Rivel @@@ 158017280
+carrer de Sant Gervasi @@@ 158019116
+carrer Unió @@@ 158019118
+Carrer de Sant Francesc @@@ 158019133
+Plaça de la Peixeteria @@@ 158019146
+Plaça de les Neus @@@ 158019152
+carrer de la Pastera @@@ 158019154
+Hospital de Sant Antoni Abat @@@ 158090568
+Carrer del Doctor Zamenhof @@@ 158095682
+Camí del Piulart @@@ 158095687
+Camí del Mas Tapet @@@ 158196049
+Camí de les Camèlies @@@ 158196050
+carrer de l'Aiguadolç @@@ 158303571
+GR 92-5 @@@ 158303573
+Plaça de Pau Casals @@@ 161462396
+Plaça de Sant Antoni @@@ 161462401
+Plaça de de la Forca @@@ 161462403
+Plaça de l'Agermanament @@@ 161462405
+Plaça de la Fàbrica Nova @@@ 161462414
+Plaça de la Marina @@@ 161462420
+Plaça de la Pagesia @@@ 161462423
+Plaça de les Casernes @@@ 161462429
+Plaça dels Lledoners @@@ 161462437
+Plaça dels Sis Camins @@@ 161462444
+Rambla del Far @@@ 161462446
+Avinguda del Coll d'en Ferran @@@ 161464286
+Eix Garraf-Anoia @@@ 161464288
+Vilanova;i la Geltrú (industrial) @@@ 161464291
+Carrer del Mas Borràs @@@ 161464299
+Carrer Menéndez Pelayo @@@ 161490804
+Carrer de Joan Llaverias @@@ 161493439
+Camí dels Pas del Bou @@@ 162692049
+Camí de les Dàlies @@@ 162692050
+Camí de la Talaia @@@ 162692051
+Camí de la Ferradura @@@ 162692052
+Camí de les Violes @@@ 162692054
+Camí de les Gardènies @@@ 162692055
+Plaça Del Pou @@@ 165181484
+Rambla de Josep Antoni Vidal @@@ 165293924
+Plaça Font i Gumà @@@ 165839131
+NOT FOUND 8f75f5d8-50d5-4e1c-a0fa-80810f1e1dd3 @@@ 167664928
+Camí dels Desmais @@@ 168468737
+Carrer del Mas de n'Alegret @@@ 169322123
+Plaça de la Terrera @@@ 173080774
+carrer de Joan Brossa @@@ 176521178
+Cami dels Colls @@@ 176521179
+carrer de Vicent Andrés Estellés @@@ 176522952
+Carrer dels Frares @@@ 177023133
+Aqua Sports Club @@@ 180240224
+Corredor del Mediterrani @@@ 180632192
+Dia @@@ 181093768
+Bunquer de Punta Marbrera @@@ 181154246
+Xalet de la Sal @@@ 181157951
+E.D.A.R. Vilanova i la Geltrú i les Roquetes @@@ 182425370
+Colònia Sant Rafael @@@ 183350433
+Pujada del far de Sant Cristòfol @@@ 189071065
+Prat de Vilanova - Nansa 8 @@@ 190846360
+Platja Llarga @@@ 190846363
+Platja Vilanova @@@ 190846369
+Carrer d'Arles de Tec @@@ 190846374
+Camí del Mas de l'Esquerrer @@@ 191006219
+Parc de Vilanova @@@ 191006222
+Fondo del Cuscó @@@ 192932322
+Carrer d'Albert Ferrer i Soler @@@ 195694227
+NOT FOUND ad3e9f50-23b6-4ffe-b713-1624cd29c184 @@@ 200253350
+NOT FOUND f354ac5b-4430-403a-9d7d-c3e9edf7e355 @@@ 200291186
+Carrer del Ter @@@ 200443657
+Carrer del Llobregat @@@ 200443658
+Carrer del Riu Anoia @@@ 200443660
+Carrer del Riu de la Sènia @@@ 200443661
+Carrer del Freser @@@ 200443663
+Carrer de la Valira @@@ 200443664
+Carrer del Besós @@@ 200443669
+Carrer del Francolí @@@ 200443670
+Carrer del Cardener @@@ 200443671
+Carrer del Gaià @@@ 200443672
+Camí del Mas d'en Puig @@@ 200443673
+travessia de Sant Onofre / Camí Perdut del Mas d'en Perris @@@ 200445566
+Carrer de Pere Tàpies @@@ 200445573
+Carrer de la Muntanyeta @@@ 200445575
+Camí del Padruell @@@ 200445578
+Camí de Solers @@@ 200445580
+Camí del Carrilet @@@ 200445581
+Camí de la Muntanyeta @@@ 200445585
+NOT FOUND 5eb6655c-04fc-49ab-b677-b9aa27beda74 @@@ 202321055
+Carrer de Francesc Moragas i Baret @@@ 202853129
+Creu @@@ 212522964
+Camí Perdut de Torrelletes @@@ 213217922
+Barraca del Bruno @@@ 213267970
+Camí de la Serra del Gat o de les Mesquites @@@ 213564553
+Camí de Sant Gervasi @@@ 214787659
+Aparcament de la Platja Sant Gervasi @@@ 214787664
+Plaça Eduard Maristany @@@ 214794135
+Camí de Solicrup @@@ 214794148
+Mercadona @@@ 214794149
+Hiper Simply @@@ 214794156
+Plaça dels Bordegassos @@@ 214795860
+Carrer de l'Acer @@@ 214798170
+Carrer del Ciment @@@ 214798171
+Camí del Fondo de les Mesquites @@@ 216243818
+Camí de Mas Torrat @@@ 218138881
+Carrer de l'Onze de Setembre @@@ 220062679
+Camí de les Sajolides @@@ 220062680
+Miniparking del Pitch&Putt @@@ 220064135
+Parking Pitch&Putt @@@ 220859511
+Camí del Mas de l'Alonso @@@ 221236630
+Camí del Torrent @@@ 221240386
+Camí del Paral·lel @@@ 221240389
+Santa Magdalena @@@ 221240390
+Camí del Corral de Carro @@@ 221240402
+NOT FOUND 8f4b0961-0aca-4690-9e5d-e5981f6273d9 @@@ 225400497
+NOT FOUND 6b3f016d-46a5-446c-9511-369f67568c5d @@@ 225400501
+NOT FOUND c4b346e6-01e1-4e4f-9cb5-97d6e70c4343 @@@ 226936903
+NOT FOUND e4fe1e92-3652-4684-bac9-7161aa77bdb0 @@@ 226936904
+NOT FOUND c6a34ce2-0984-4a92-9555-01c701baaaa9 @@@ 226988958
+C-246a-C31 @@@ 226988962
+C-246a>C-31 Barcelona @@@ 226988963
+NOT FOUND af135361-0b65-4543-8d4d-92b0c356917e @@@ 226988965
+C-31>C-246a @@@ 226988968
+NOT FOUND 86351cd8-337f-4a78-a5b7-2271e120bd61 @@@ 226988969
+C-31>C-246a Carretera de Vilanova a Cubelles @@@ 226988975
+carrer Esparrall - Crta. al Racó de Santa Llúcia @@@ 226988976
+NOT FOUND 259b6fa0-8d38-48ce-88a9-8b1d9b59cbb1 @@@ 231957886
+NOT FOUND 28ae996e-695c-4647-b0b2-18fde32b60ae @@@ 231965062
+Carril Bici de la Ronda Ibèrica @@@ 232781326
+NOT FOUND e39052fe-20de-4c84-acb8-74598bbbc8fe @@@ 238045078
+NOT FOUND c53a4b09-6659-4a71-995f-cbe00030f03d @@@ 238076519
+NOT FOUND 652fdac5-feea-4169-ab6c-7c2ee92a3593 @@@ 238076524
+Carrer del Greco @@@ 238077637
+NOT FOUND 2d151482-cfae-452f-b031-086441c75989 @@@ 238207398
+Mini golf Ribes Roges @@@ 240009520
+Camí del Juí del Moro @@@ 258190938
+Garraf @@@ 258190951
+Àrea de servei @@@ 258190972
+Carrer d'Amadeu Vives @@@ 258523535
+camí del Salze @@@ 258551330
+Camí de Rocacrespa @@@ 258580693
+NOT FOUND 3be83c46-60f7-4815-a3c4-99b3212c4a90 @@@ 258581020
+Camí del Mas d'en Palau @@@ 258992739
+Camí del Prat @@@ 258995639
+Carrer de Jaume I @@@ 258995643
+Camí de les Palmeres @@@ 259482034
+Carrer Terol @@@ 259559688
+Fondo de Canyelles @@@ 259561788
+Camí de Mas Tapet @@@ 259670735
+Carrer de l'Onyar @@@ 259670736
+Carrer del Riu Fluvià @@@ 259670737
+Camí dels Escalons @@@ 259671398
+Carrer del Besòs @@@ 259671399
+Camí dels Gessamins @@@ 259671400
+Camí dels Nenúfars @@@ 259671402
+Camí de l'Araucàries @@@ 259672327
+Camí dels Clavells @@@ 259672329
+Camí de les Sequoies @@@ 259672331
+Torre d'en Vallès @@@ 259672812
+NOT FOUND fa11924e-a15b-47b2-9081-e46a549bd311 @@@ 259674401
+NOT FOUND 80968cfb-63c9-4f8a-845a-5e5deb072364 @@@ 259674451
+Camí de Santa Llúcia @@@ 259674793
+Carrer de Córdova @@@ 260387228
+Camí de les Savines @@@ 260390690
+NOT FOUND 3e86712f-8cc4-43c1-994b-e36d4f8d5563 @@@ 260663145
+carrerdel Mont Perdut @@@ 260663149
+Avinguda de l'Aragai @@@ 260678346
+NOT FOUND cf417451-21ca-49cd-be77-4613d4107430 @@@ 260678350
+Santa Llúcia (ctra. C-246a PK. 47) @@@ 260679516
+NOT FOUND 9f69ac67-3236-48d6-bcd1-647b63de920d @@@ 260864079
+NOT FOUND 36a4299a-0acf-446a-a2a9-160ef1a4196e @@@ 260864080
+NOT FOUND 0d52cf27-80e5-41fa-ad9e-6af705b38426 @@@ 260864082
+Carretera de L'Arboç @@@ 260864083
+NOT FOUND f77c8c0c-a22b-43cd-a225-23247c989d77 @@@ 260864085
+NOT FOUND fdb3d5d0-aa0e-4da6-9af5-da10fc8ad744 @@@ 260864131
+NOT FOUND c2e2f5e6-d7a3-4720-9d23-1b02e9561d81 @@@ 260959505
+NOT FOUND 634c4d50-bd01-40e7-bf12-7f727329e5dd @@@ 260959506
+NOT FOUND 31bc8a67-ac53-43bd-a8a7-bbaa56544aab @@@ 260959508
+NOT FOUND e001ef73-37ca-42ad-bb25-4c62deecabe6 @@@ 260959510
+NOT FOUND 03bcc5dd-4a13-4189-b463-4c293e09767f @@@ 260959512
+NOT FOUND 3c6df0bf-52df-4d31-b9db-6c4b216bedfd @@@ 260959513
+NOT FOUND fa25edcb-d449-4fd9-833f-5bfa3b574506 @@@ 260959521
+NOT FOUND fed67d25-62b4-4aaf-8998-593408999724 @@@ 260959522
+Carrer de Granada @@@ 260993415
+Malhe SA @@@ 261301356
+NOT FOUND 2bc396f0-7b1b-465c-a9e6-2c5daa3fe498 @@@ 261461085
+NOT FOUND 81bf24be-fb5a-4c37-ad16-c98b4e350f0e @@@ 261468349
+NOT FOUND a1b6348b-8db9-44f2-a956-3c0b3f545d93 @@@ 261468350
+NOT FOUND d0a2202b-01a7-44ed-b814-300462d4f68c @@@ 261468353
+Carrer Miquel Guansé @@@ 261473468
+Carrer dels Pardals @@@ 261604373
+Verger dels Moixons @@@ 261604388
+NOT FOUND e92f7a47-afd0-4c76-b593-18e12af320f0 @@@ 261608093
+NOT FOUND f983d895-4acd-42b2-926d-8cdd9b20f9a3 @@@ 261608094
+NOT FOUND 00be579a-6cc4-416d-b28f-b10140d0a27e @@@ 261608095
+NOT FOUND cb1e4c15-d90f-4d12-9796-c5fe51bcb0b6 @@@ 261608096
+NOT FOUND 29bd9350-b6ad-4c4e-ad3a-e17fda36a7a0 @@@ 261608097
+NOT FOUND 54707563-35b0-4ee9-a2aa-96cc9511d917 @@@ 261608098
+NOT FOUND 69f42251-f539-41dd-9253-a162b77a7a06 @@@ 261609080
+NOT FOUND 5d98fd0e-d9a8-44c0-b77c-593394ff44ed @@@ 261609081
+NOT FOUND cc1b44be-f2ba-46a2-9f96-d230997c7a25 @@@ 261609083
+NOT FOUND c501d1b5-3174-4dfb-98f6-9945b57d4ba1 @@@ 261609086
+NOT FOUND 6ef27ff6-17f9-4755-b54f-cee7d43fb5d5 @@@ 261609088
+Camí de la Font d'en Bonet @@@ 261610885
+NOT FOUND ac5522ca-d94b-47e2-aaff-e8cc23e2e49d @@@ 261612599
+NOT FOUND dab28df4-1334-497f-8149-e010a9468713 @@@ 261755874
+NOT FOUND d5af64ef-b105-4c1a-ad7f-6be33a1bb13f @@@ 261755877
+NOT FOUND b1329fa5-7095-49ee-ab1f-1c4e3fe68f20 @@@ 261755878
+Camí de la Masia d'en Xicarró @@@ 261759453
+NOT FOUND 4ac914e1-513a-4c3d-a597-c949f0db8a3e @@@ 261759456
+NOT FOUND 1ed9c470-ca0e-49c5-b8bd-6568110180ac @@@ 261760812
+Plaça d'Eduard Toda @@@ 261767158
+Avinguda de Francesc Macià @@@ 261770700
+NOT FOUND e8a769fe-6203-441f-96a3-d68b7450cdb9 @@@ 261770708
+NOT FOUND 96bc7547-38dd-4afb-bc3e-71efb80719d5 @@@ 261770709
+NOT FOUND 8981ffcd-cb6b-48c6-abca-f82945fe072b @@@ 261771430
+NOT FOUND efb102ce-70a0-464f-b39b-948e4d57ac3a @@@ 261771435
+NOT FOUND 600a774a-074a-493d-b970-fd4a30e0642e @@@ 261771440
+NOT FOUND 4f157547-f3ea-4f33-8c63-522ec6839027 @@@ 261777294
+NOT FOUND 1a229484-0629-4a7b-9a78-b15fc23ac846 @@@ 261777295
+NOT FOUND d17760e4-0e1b-400a-a639-d7fcea8a397c @@@ 261777315
+C-244a @@@ 261777317
+NOT FOUND 7fccb512-64ad-49ad-bd64-7342ff30da11 @@@ 261779246
+NOT FOUND 06fed320-0b23-4a56-917c-72ee5a5acc6c @@@ 261779247
+Camí de l'Apotecari @@@ 261779534
+Camí del Pla de Jorba @@@ 261779535
+NOT FOUND 1210cffa-a725-4ecb-b944-563ddbba5748 @@@ 261779543
+NOT FOUND c1d082bd-f00e-4901-856a-ab970a3092e2 @@@ 261793178
+NOT FOUND 78171f2a-f045-4ac8-90fc-ba382936c9e8 @@@ 261793179
+NOT FOUND dc6ee5be-59fb-450b-bfa3-bce05446d5be @@@ 261793180
+NOT FOUND ebb87bc0-fddc-4e2e-a78a-ae6bf27d0fc0 @@@ 261971240
+NOT FOUND c328352d-95e6-4b96-b82d-4de4b9e7985b @@@ 261971241
+Carrer dels Masos @@@ 261971877
+Carrer de les Vinyes @@@ 261973292
+Tros del Pi Gros @@@ 261973294
+Masia Cabanyes @@@ 261979255
+NOT FOUND 2f6cdb50-600f-407f-9bd9-f3431e03d7d9 @@@ 261979259
+Masia d'en Cabanyes @@@ 261979261
+Camí dels Capellans @@@ 261979574
+Plaça del Cubilot @@@ 261979742
+Jardins Ovidi Montllor @@@ 261980953
+Jardins de Mossén Joan Llaverias i Poch @@@ 261980954
+Jardins de l'Apol·lo @@@ 261980955
+Plaça de Gumà i Ferran @@@ 261980956
+Plaça de Joan Magriñà @@@ 261980958
+Plaça de Neàpolis @@@ 261980960
+Plaça de l'Associació dels Alumnes Obrers @@@ 261980961
+Plaça de la Ciència @@@ 261980962
+Plaça de la Diputació @@@ 261980963
+Plaça de les Acàcies @@@ 261980965
+Plaça del Port @@@ 261980966
+Plaça del Portal de Sitges @@@ 261980967
+Plaça del Sol @@@ 261980968
+Plaça del Trajo de Garbí @@@ 261980969
+Plaça dels Pins @@@ 261980971
+Plaça dels Pobles d'Espanya @@@ 261980972
+Carrer del Mas d'en Galceran @@@ 262482319
+NOT FOUND abc351bc-a0b3-44d6-961c-2ee04b8b1db8 @@@ 265094538
+NOT FOUND 8af40947-72af-4842-89dc-7546c832d517 @@@ 265094539
+NOT FOUND f98aa432-ca55-4d1d-8f0d-1c1bc94f9d1b @@@ 265094540
+Carrer de Maria Aurèlia Campmany @@@ 268782107
+Camí del Corral de l'Apotecari @@@ 269051846
+Carrer de S. Sanchís @@@ 269051847
+Carrer de la Ceràmica @@@ 269084668
+NOT FOUND 512e925b-d621-40c3-b60d-c2f894f46ef5 @@@ 269084670
+Carrer de Castelló @@@ 269087475
+Carrer de les Mulasses @@@ 269087478
+Carrer del Ball de Bastons @@@ 269087480
+Carrer del Ball de Gitanes @@@ 269087482
+Carrer del Drac @@@ 269087484
+Carrer dels Gegants @@@ 269087488
+Carrer dels Grallers @@@ 269087492
+Plaça Josep Tarradellas @@@ 270242936
+Camí de S Sanchís @@@ 270243922
+Rambla de Santa Magdalena @@@ 270247121
+Camí de les Roquetes @@@ 270253862
+Camí vell de Sitges @@@ 270253863
+Rda. Ibèrica - CEM Parc del Garraf @@@ 270253867
+Carrer de Josep Juliachs @@@ 270253869
+Carrer de Maria Mercè @@@ 270253883
+Carrer de Marcel·lí Gené @@@ 270253887
+Passatge de Vilanoveta @@@ 270335148
+Lateral Avinguda Eduard Toldrà @@@ 270335152
+carrer del Pare Pibernat @@@ 275211287
+carrer d'Eusebi Millan @@@ 277226028
+NOT FOUND 4523bd79-99a4-46f5-b715-e8970655c5ee @@@ 277257858
+NOT FOUND e0839917-4282-4972-a11a-c6d53479bcf4 @@@ 277257860
+Carrer de la Bòbila Figueres @@@ 277428162
+Passatge de la Santa Creu @@@ 277428164
+Carrer Viladellops @@@ 277548711
+Carrer Meridional @@@ 277550247
+NOT FOUND 9752b708-c592-47b3-bc60-87b5ba4f8845 @@@ 277555296
+C-246a-C-31 @@@ 277581333
+NOT FOUND 42e8475c-60a6-4311-b44b-60e7fb77b949 @@@ 277581338
+Carrer del Banderer @@@ 277597358
+Racó del Banderer @@@ 277597359
+Passeig Maritim de Ribes Roges @@@ 279096060
+Pasifae @@@ 279100983
+carrer Montseny @@@ 279126199
+Carrer de l'Any dels Negats @@@ 279165467
+Parc de Gumà i Ferran @@@ 279165469
+Estació de tren de Vilanova i la Geltrú @@@ 279216102
+Carrer dels Almogàvers @@@ 279259633
+Carrer de la Boia @@@ 279330159
+Platja de Ribes Roges @@@ 279467118
+Pg. Carme - Rbla. Pirelli @@@ 279478283
+Aparcament de la Plaça Mediterrània @@@ 280378531
+Rbla. Samà - Pl. Mercat | Rbla. Salvador Samà - Escola Pompeu Fabra @@@ 280403017
+Carrer Pare Garí @@@ 280403019
+Carrer de Conxita Soler @@@ 280442648
+carrer de les Barques @@@ 280466405
+carrer de Ferrer i Vidal @@@ 280466407
+Carrer Jardí @@@ 280654375
+Carrer Tetuan @@@ 280655325
+Escola Oficial d'Idiomes Garraf @@@ 280658050
+Pas sota la via Magdalena Miró @@@ 281164787
+Cruïlla Joan Oliver @@@ 281458882
+Carrer del Comerç @@@ 281908699
+Carrer de l'Almirall Colom @@@ 281908704
+Carrer del Castell @@@ 281908705
+carrer dels Escolapis @@@ 281908707
+Parc de Solicrup @@@ 283175136
+carrer de la Boia @@@ 283263653
+Plaça de l'Assumpció @@@ 284045928
+Parc de Baix-a-Mar @@@ 289563610
+Àrea de Servei de Garraf @@@ 289842306
+NOT FOUND 3098b585-373f-4c6e-aa6f-e9ad0054a0ab @@@ 296469154
+NOT FOUND c653706e-dd43-43f3-a3db-0c55e1b63bd6 @@@ 296469155
+NOT FOUND 96ea2cf1-414e-460c-aa78-0a6cf710d829 @@@ 296469166
+NOT FOUND dfeb007d-7f38-44e3-8555-d883b683bbd7 @@@ 296484835
+Plaça de l'Era @@@ 307796190
+Pl. Moixiganga @@@ 307928399
+Pavelló Municipal Poliesportiu del Garraf @@@ 308112478
+Rda. Ibèrica - Eusebi Millán @@@ 308144751
+NOT FOUND 211aaa04-d6a7-44c1-8061-37c1f6b89f41 @@@ 309578478
+NOT FOUND 47230269-0efd-4cc6-91d4-6963993389f9 @@@ 309578481
+NOT FOUND 41312337-4e68-4fb5-94d6-b4da717255e5 @@@ 309578482
+NOT FOUND cc8dad98-668d-46e6-a06c-e3f3c4b547e2 @@@ 309578483
+NOT FOUND 20faf1e9-ad67-4975-a7f6-0c87696c3ba4 @@@ 309578485
+NOT FOUND a087d6d8-dc3a-47d7-afbc-5dee926e12e2 @@@ 309578488
+NOT FOUND fe6eb12d-85b5-40de-aa50-84aef9509d4f @@@ 309578500
+NOT FOUND 493848a0-f56e-46dd-86a3-496301babf56 @@@ 309578505
+CarrerJoan Llaverias @@@ 309663133
+Carrer de Josep Coroleu @@@ 309663134
+Carrer de Mérignac @@@ 309663147
+Carrer de Vila-real @@@ 309663148
+Passatge del Trobador Cercamon @@@ 309663151
+Plaça de l'Esglèsia de Sant Joan @@@ 309663154
+Carrer Aigua @@@ 309663158
+carrer Abat Escarré @@@ 309663159
+Carrer de Castellet @@@ 312653241
+Carrer Olérdola @@@ 312671846
+Plaça de la Filatura @@@ 312833182
+Passatge de la Torre del Vallès @@@ 314790402
+Carrer del Ball de Diables @@@ 328133218
+Carrer d'Avel·lí Gener  Tisner  @@@ 396732397
+Passatge del Besós @@@ 396800775
+Camí Quinze d'Agost @@@ 397165768
+l'Esmeralda @@@ 431553305
+Tren Vilanova - Estació de França @@@ 432545188
+NOT FOUND c9c88606-faca-4e3d-bc89-e0cf3586ca8a @@@ 437082894
+NOT FOUND f8977ae5-0a93-43cb-b0fc-e270f1b7d1d2 @@@ 437522320
+NOT FOUND 5b6cb93d-2d25-48d8-8aa7-5c6f20b5ccc3 @@@ 439537115
+NOT FOUND bde1b215-292e-427e-bffd-ba77fddac6a3 @@@ 439537145
+NOT FOUND fb90cd44-8928-4767-9ffb-da79e88cf868 @@@ 439537150
+NOT FOUND 11ecfae0-00ae-4cf4-b5c3-5d3b66810d22 @@@ 439537151
+Carrer dels Pallars @@@ 458491282
+> C-15 @@@ 467668348
+NOT FOUND bb30a0de-5a5e-494a-80dd-cfeec8f39c68 @@@ 479561962
+NOT FOUND 0da46520-7ffd-4c10-a667-093e23938746 @@@ 543457676
+NOT FOUND 8ccb5af9-79ea-4f9a-88cc-5a86a725d3b0 @@@ 547109053
+NOT FOUND b685a108-92e5-408b-9801-33f2e2d5f530 @@@ 553043669
+NOT FOUND 55a6cbe1-7354-4211-ae08-6a0b15f10901 @@@ 553043670
+NOT FOUND e58a490f-0eff-465c-be8e-8d0f3f07760a @@@ 553043671
+NOT FOUND 7b962935-f905-48d5-bd53-63d65f8201e7 @@@ 553043672
+Estadi Alumnes Obrers @@@ 554047298
+NOT FOUND f095c884-1cbb-40e0-93e6-25bae3eb21f4 @@@ 554047303
+NOT FOUND e5cd6500-1e9a-4ae8-9364-6fe3a75d15de @@@ 564111470
+NOT FOUND bff0bb59-3181-4555-9328-e88fa118c09e @@@ 564970082
+NOT FOUND 4eb1ba9b-73ab-480e-aec7-2068850a091d @@@ 566390605
+NOT FOUND 4d347af7-54f5-4757-8711-edb6590375f3 @@@ 566461192
+NOT FOUND a76113cd-ec40-4e22-bf9e-f3ab83646d05 @@@ 570035807
+NOT FOUND 0f46c8e7-741e-4716-9a5e-86eeac91df18 @@@ 570035810
+NOT FOUND 70973a2c-7b71-4efe-985e-7a8b02df9e8f @@@ 570035811
+NOT FOUND e3248cc9-b786-4b93-9418-c4095f9269e1 @@@ 570035813
+NOT FOUND 70223333-2cf6-4110-a49d-e9c07b26e008 @@@ 570035817
+NOT FOUND 9baa3825-6b7f-489d-8bb5-3dfc1fcdaf3c @@@ 571060404
+NOT FOUND 83df2f51-8291-4567-916c-3c9bc7d6e7f1 @@@ 571060415
+NOT FOUND cd4ba2bc-52b1-4d84-af6c-ba7ba5bcbb1b @@@ 571060416
+NOT FOUND 8ce5f600-1b77-4a9e-a62a-78bd217e9dea @@@ 571060424
+NOT FOUND d052cd67-9ee5-417e-b900-e60c7c82a678 @@@ 571060425
+NOT FOUND a4de9d1c-d844-4cb0-b36e-08fb639a8972 @@@ 571060426
+NOT FOUND 1681f145-eca4-4488-91b3-ce77f8af1473 @@@ 571060427
+NOT FOUND a408e321-fc81-4a86-ad8d-21391dcb0568 @@@ 571097356
+NOT FOUND 956919e7-0d8e-4321-8819-00ca7f6092ef @@@ 571097372
+NOT FOUND d4665479-dc17-4cfe-b312-aac5978c6b70 @@@ 584004109
+NOT FOUND 2f111ea3-7638-43fe-9432-bba7fd17e3e5 @@@ 584004110
+NOT FOUND 8948e838-0332-4fa0-b0b6-3402ddfc20a9 @@@ 584026397
+carrer Ferrer i Vidal @@@ 586021970
+Mon Verd @@@ 586021971
+Plaça del Sagrat Cor @@@ 598457554
+Plaça de les Danses de Vilanova @@@ 604003710
+Plaça de la Concòrdia @@@ 606844554
+Plaça d'Eugeni d'Ors @@@ 610169553
+Carrer de Luís de Requesens @@@ 611317476
+Carrer de Juan Sebastian Elcano @@@ 611317481
+Carrer del Rei Pere el Ceremonios @@@ 611317486
+Carrer Roger de Llúria @@@ 611317492
+Alexandre de Cabanyes - Rda. Mar Mediterrània @@@ 611317538
+Pl. Consolat de Mar @@@ 611317583
+Sta. Maria (Pg. Salces) @@@ 613536521
+Passatge de la Cadernera @@@ 617083860
+Plaça de Josep Tarradellas @@@ 617436225
+Plaça dels Boleranys @@@ 618591382
+carrer de Magdalena Miro @@@ 620722596
+Carrer de la Sinia de les Vaques @@@ 621527208
+Plaça de les Xarxaires @@@ 621563400
+Balears - Pl. Marina @@@ 621563406
+Coaliment @@@ 621563421
+Plaça de Cal Xixu @@@ 621769566
+Parc de Baix-A-Mar @@@ 621780303
+Rbla. Exposició 103 @@@ 621835179
+Libertad - Forn de Vidre @@@ 621835224
+Carrer Josep Anselm Calvè @@@ 621835231
+Carrer Canigó @@@ 621835235
+Pl. Danses de Vilanova @@@ 621835241
+Carrer dels Magatzems Nous @@@ 621835246
+Passeig de la Fita / Carrer de l'Agricultura @@@ 621843380
+Carrer de Roser Dolcet @@@ 621957476
+rda. Europa 57 @@@ 622040599
+Vila Lauren @@@ 622089256
+Avinguda del Coll de Ferran @@@ 622089315
+Masia d'en Barrena @@@ 622089341
+carrer de Sevilla @@@ 622089526
+Av. Vilafranca @@@ 622089539
+carrerdel Pare Pibernat @@@ 622089551
+Carrer de Mas Borràs @@@ 622138101
+Pol. Ind. Masia d'en Frederic @@@ 622138119
+Av. Vilafranca - Cementiri @@@ 622485061
+Av. Torre del Vallès - Av. Aragai @@@ 624042896
+Carrer del Mont Perdut @@@ 624051347
+carrer Pirineus @@@ 624051360
+Rbla. Arnau de Vilanova - Av. Collada @@@ 624051465
+Av. Torre del Vallès - Av. Somella @@@ 624062763
+Agricultura - Av. Somella @@@ 624062796
+Av. Somella - Estaca @@@ 624062823
+Prat de Vilanova - Gavines 13 @@@ 624085281
+Carrer del Montmell @@@ 627578803
+Rambla Salvador Samà @@@ 642724760
+59 Rambla de la Pau @@@ 642738216
+carrer de la Restauració @@@ 643194986
+Rambla Josep Antoni Vidal @@@ 643194995
+Carrer Unió @@@ 643195002
+Carrer Puigcerda @@@ 643195013
+carrer Joan Llaverias @@@ 643207418
+av. Terrosa - rda. Europa @@@ 648413516
+Av. Rocacrespa - Av. Sis Camins @@@ 648729421
+Margalló - Av. Sis Camins @@@ 648729452
+Av. Rocacrespa - Cadí @@@ 648729455
+Av. Aragai - Rbla. Arnau de Vilanova @@@ 648771872
+Dr Zamenhof - Jardins Molí de Vent @@@ 648771885
+Av. Francesc Macià - Dr. Zamenhof @@@ 648771886
+Dr. Zamenhof - Torre de l'Enveja @@@ 648771903
+carrer Olérdola @@@ 648870197
+Carrer Bruc @@@ 648894342
+Carrer de l'Aigua 147 | Aigua - Bruc @@@ 648894343
+Carrer Lepant @@@ 648894347
+Carrer Sant Onofre @@@ 648894351
+Aigua - Joan Llaverias @@@ 648894445
+Parc de la Quadra d'Enveja @@@ 648894489
+Josep Coroleu - Esportiu Piscina @@@ 648902001
+Carrer d'Olivella @@@ 648902010
+Carrer Recreo @@@ 648902014
+Josep Coroleu - Torre d'Enveja @@@ 648902030
+Torre d'Enveja - Ordí @@@ 649264047
+Carrer Pelegrí Ballester @@@ 649264099
+KFC Auto @@@ 650370696
+AutoViena @@@ 650370702
+Passatge del Colibrí @@@ 654355976
+Passatge del Pi @@@ 659181946
+LIDL @@@ 663603108
+Carrerde Matanzas @@@ 679009883
+Biblioteca Universitaria de la EPSEVG @@@ 680632811
+NOT FOUND 50fef6dc-3d08-4cbe-9ebf-1ab95208efb6 @@@ 680980088

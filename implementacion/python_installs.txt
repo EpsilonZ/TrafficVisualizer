@@ -1,0 +1,3 @@
+pip3 install osmium
+pip3 install shapely
+

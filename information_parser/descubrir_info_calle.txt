@@ -1,0 +1,22 @@
+https://nominatim.openstreetmap.org/reverse?format=json&lat=54.9824031826&lon=9.2833114795&zoom=18&addressdetails=1
+
+https://nominatim.openstreetmap.org/reverse?format=json&lat=x&lon=y&zoom=18&addressdetails=1
+
+
+
+FUNCIONAL 
+
+curl "http://www.mapquestapi.com/geocoding/v1/reverse?key=MXSRhLoc6m39HTn8NWdwU7D8R0MoeN53&location=41.2238735,1.7320409&includeRoadMetadata=true&includeNearestIntersection=true"
+
+
+API MAPQUEST https://developer.mapquest.com/documentation/geocoding-api/reverse/get/
+
+
+OPEN API 
+
+GET http://open.mapquestapi.com/geocoding/v1/reverse?key=KEY&location=30.333472,-81.470448&includeRoadMetadata=true&includeNearestIntersection=true
+
+
+NOMINATIUM
+
+https://developer.mapquest.com/documentation/open/nominatim-search/reverse/

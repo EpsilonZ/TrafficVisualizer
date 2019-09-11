@@ -1,0 +1,257 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmfilter 1.4.3">
+	<bounds minlat="41.20172" minlon="1.66838" maxlat="41.27183" maxlon="1.75168"/>
+	<node id="1839085292" lat="41.215808" lon="1.7289289">
+		<tag k="addr:housenumber" v="48"/>
+		<tag k="addr:postcode" v="08800"/>
+		<tag k="addr:street" v="Passeig del Carme"/>
+		<tag k="amenity" v="bar"/>
+		<tag k="entrance" v="yes"/>
+		<tag k="name" v="Les Palmeres"/>
+		<tag k="phone" v="938152027"/>
+	</node>
+	<node id="1927132691" lat="41.2206548" lon="1.726838">
+		<tag k="addr:housenumber" v="7-9"/>
+		<tag k="addr:postcode" v="08800"/>
+		<tag k="addr:street" v="Rambla de la Pau"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="entrance" v="yes"/>
+		<tag k="name" v="tas"/>
+	</node>
+	<node id="1927133035" lat="41.2207738" lon="1.7267704">
+		<tag k="addr:housenumber" v="1-5"/>
+		<tag k="addr:postcode" v="08800"/>
+		<tag k="addr:street" v="Rambla de la Pau"/>
+		<tag k="amenity" v="cafe"/>
+		<tag k="entrance" v="yes"/>
+		<tag k="name" v="l&#39;antico cafe"/>
+	</node>
+	<node id="2845795641" lat="41.2167532" lon="1.7274562">
+		<tag k="addr:housenumber" v="2"/>
+		<tag k="addr:postcode" v="08800"/>
+		<tag k="addr:street" v="Plaça de la Mediterrània"/>
+		<tag k="amenity" v="cafe"/>
+		<tag k="entrance" v="yes"/>
+		<tag k="name" v="Cafè l&#39;Arenal"/>
+		<tag k="phone" v="646318807"/>
+	</node>
+	<node id="4295450985" lat="41.221514" lon="1.7263542">
+		<tag k="addr:housenumber" v="95"/>
+		<tag k="addr:postcode" v="08800"/>
+		<tag k="addr:street" v="Rambla Principal"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="entrance" v="yes"/>
+		<tag k="name" v="El Super Pollo"/>
+		<tag k="phone" v="938935501"/>
+		<tag k="takeaway" v="yes"/>
+	</node>
+	<node id="4295452522" lat="41.2207619" lon="1.7265336">
+		<tag k="addr:housenumber" v="2"/>
+		<tag k="addr:postcode" v="08800"/>
+		<tag k="addr:street" v="Rambla de la Pau"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="email" v="laburguette@gmail.com"/>
+		<tag k="entrance" v="yes"/>
+		<tag k="name" v="La Burguette"/>
+		<tag k="phone" v="930108917"/>
+		<tag k="website" v="https://www.laburguette.com/"/>
+	</node>
+	<node id="4295452555" lat="41.2205082" lon="1.7266718">
+		<tag k="addr:housenumber" v="6"/>
+		<tag k="addr:postcode" v="08800"/>
+		<tag k="addr:street" v="Rambla de la Pau"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="entrance" v="yes"/>
+		<tag k="name" v="100 Montaditos"/>
+	</node>
+	<node id="4295452562" lat="41.2162283" lon="1.7290545">
+		<tag k="addr:housenumber" v="64"/>
+		<tag k="addr:postcode" v="08800"/>
+		<tag k="addr:street" v="Rambla de la Pau"/>
+		<tag k="amenity" v="pub"/>
+		<tag k="entrance" v="yes"/>
+		<tag k="name" v="Rambla 64"/>
+		<tag k="phone" v="938100420"/>
+		<tag k="source" v="survey"/>
+	</node>
+	<node id="4296250853" lat="41.2155128" lon="1.7277092">
+		<tag k="addr:housenumber" v="31"/>
+		<tag k="addr:postcode" v="08800"/>
+		<tag k="addr:street" v="Passeig del Carme"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="email" v="reserva@lanima.cat"/>
+		<tag k="entrance" v="yes"/>
+		<tag k="healthcare:speciality" v="shop"/>
+		<tag k="name" v="L&#39;Ànima Bistró"/>
+		<tag k="phone" v="938160356"/>
+		<tag k="shop" v="alcohol"/>
+		<tag k="website" v="www.lanima.cat"/>
+	</node>
+	<node id="4296250865" lat="41.2155964" lon="1.7282727">
+		<tag k="addr:door" v="2"/>
+		<tag k="addr:floor" v="0"/>
+		<tag k="addr:housenumber" v="39"/>
+		<tag k="addr:postcode" v="08800"/>
+		<tag k="addr:street" v="Passeig del Carme"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="entrance" v="yes"/>
+		<tag k="name" v="La Platja"/>
+		<tag k="phone" v="938154041"/>
+		<tag k="source" v="Opendata Ajuntament de Vilanova i la Geltrú"/>
+		<tag k="source:date" v="2015-03-15"/>
+	</node>
+	<node id="4296330269" lat="41.2164093" lon="1.7286582">
+		<tag k="addr:housenumber" v="34"/>
+		<tag k="addr:postcode" v="08800"/>
+		<tag k="addr:street" v="Carrer de Ferrer i Vidal"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="email" v="el-xampanyet@hotmail.com"/>
+		<tag k="name" v="El Xampanyet"/>
+		<tag k="phone" v="938106860"/>
+	</node>
+	<node id="4347088934" lat="41.2205686" lon="1.7268855">
+		<tag k="addr:housenumber" v="11-13"/>
+		<tag k="addr:postcode" v="08800"/>
+		<tag k="addr:street" v="Rambla de la Pau"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="email" v="britcha10@gmail.com"/>
+		<tag k="entrance" v="yes"/>
+		<tag k="name" v="Antico Café"/>
+		<tag k="phone" v="690003077"/>
+	</node>
+	<node id="4347088940" lat="41.2208283" lon="1.7267438">
+		<tag k="addr:door" v="2"/>
+		<tag k="addr:floor" v="0"/>
+		<tag k="addr:housenumber" v="1"/>
+		<tag k="addr:postcode" v="08800"/>
+		<tag k="addr:street" v="Rambla de la Pau"/>
+		<tag k="amenity" v="pub"/>
+		<tag k="entrance" v="yes"/>
+		<tag k="name" v="El Petit Cafè"/>
+	</node>
+	<node id="4347088943" lat="41.2206748" lon="1.7268253">
+		<tag k="addr:door" v="1"/>
+		<tag k="addr:floor" v="0"/>
+		<tag k="addr:housenumber" v="7"/>
+		<tag k="addr:postcode" v="08800"/>
+		<tag k="addr:street" v="Rambla de la Pau"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="email" v="info@lecoq.com"/>
+		<tag k="entrance" v="yes"/>
+		<tag k="name" v="Le Coq Rostisseria"/>
+		<tag k="phone" v="938160854"/>
+		<tag k="takeaway" v="only"/>
+		<tag k="website" v="www.lecoq.com"/>
+	</node>
+	<node id="4347088949" lat="41.2205298" lon="1.7269062">
+		<tag k="addr:door" v="2"/>
+		<tag k="addr:floor" v="0"/>
+		<tag k="addr:housenumber" v="11-17"/>
+		<tag k="addr:postcode" v="08800"/>
+		<tag k="addr:street" v="Rambla de la Pau"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="international"/>
+		<tag k="entrance" v="yes"/>
+		<tag k="name" v="Tas Bar Restaurant"/>
+		<tag k="phone" v="935168639"/>
+	</node>
+	<node id="4347088950" lat="41.2206067" lon="1.7268636">
+		<tag k="addr:housenumber" v="11-15"/>
+		<tag k="addr:postcode" v="08800"/>
+		<tag k="addr:street" v="Rambla de la Pau"/>
+		<tag k="amenity" v="pub"/>
+		<tag k="entrance" v="yes"/>
+		<tag k="name" v="Tasta&#39;m"/>
+		<tag k="phone" v="931289244"/>
+		<tag k="shop" v="bakery"/>
+	</node>
+	<node id="5776582077" lat="41.2162973" lon="1.7290161">
+		<tag k="addr:housenumber" v="62"/>
+		<tag k="addr:postcode" v="08800"/>
+		<tag k="addr:street" v="Rambla de la Pau"/>
+		<tag k="amenity" v="ice_cream"/>
+		<tag k="entrance" v="yes"/>
+		<tag k="name" v="La Nocciola"/>
+		<tag k="source" v="survey"/>
+	</node>
+	<node id="5776583144" lat="41.2158562" lon="1.7291021">
+		<tag k="addr:housenumber" v="49"/>
+		<tag k="addr:postcode" v="08800"/>
+		<tag k="addr:street" v="Passeig del Carme"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="building" v="yes"/>
+		<tag k="entrance" v="yes"/>
+		<tag k="name" v="El Blau"/>
+	</node>
+	<node id="6373590738" lat="41.2218692" lon="1.7261577">
+		<tag k="addr:housenumber" v="83"/>
+		<tag k="addr:postcode" v="08800"/>
+		<tag k="addr:street" v="Rambla Principal"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="entrance" v="yes"/>
+		<tag k="name" v="El Racó"/>
+		<tag k="phone" v="691880389"/>
+	</node>
+	<node id="6374793131" lat="41.2215829" lon="1.7260659">
+		<tag k="addr:housenumber" v="114-116"/>
+		<tag k="addr:postcode" v="08800"/>
+		<tag k="addr:street" v="Rambla Principal"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="entrance" v="yes"/>
+		<tag k="name" v="De Fábula"/>
+		<tag k="name:ca" v="De Fábula"/>
+		<tag k="was:cuisine" v="pizza"/>
+		<tag k="was:name" v="Pizzeria-Cerveseria Gilda"/>
+		<tag k="wikidata" v="Q30301811"/>
+	</node>
+	<way id="281017230">
+		<nd ref="2850393659"/>
+		<nd ref="2850393675"/>
+		<nd ref="2850393676"/>
+		<nd ref="2850393663"/>
+		<nd ref="2850393659"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="building" v="roof"/>
+		<tag k="leisure" v="outdoor_seating"/>
+	</way>
+	<way id="281017232">
+		<nd ref="2850393652"/>
+		<nd ref="2850393630"/>
+		<nd ref="2850393624"/>
+		<nd ref="2850393650"/>
+		<nd ref="2850393652"/>
+		<tag k="amenity" v="restaurant"/>
+	</way>
+	<way id="281026763">
+		<nd ref="2850465669"/>
+		<nd ref="2850465666"/>
+		<nd ref="2850465668"/>
+		<nd ref="2850465670"/>
+		<nd ref="2850465669"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="building" v="roof"/>
+		<tag k="leisure" v="outdoor_seating"/>
+	</way>
+	<way id="609737007">
+		<nd ref="5775083403"/>
+		<nd ref="5775083402"/>
+		<nd ref="5775083401"/>
+		<nd ref="5775083400"/>
+		<nd ref="5775083403"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="building" v="roof"/>
+		<tag k="leisure" v="outdoor_seating"/>
+	</way>
+	<way id="618591361">
+		<nd ref="5846723725"/>
+		<nd ref="5846723724"/>
+		<nd ref="5846723723"/>
+		<nd ref="5846723722"/>
+		<nd ref="5846723721"/>
+		<nd ref="5846723720"/>
+		<nd ref="5846723725"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="building" v="roof"/>
+		<tag k="leisure" v="outdoor_seating"/>
+	</way>
+</osm>

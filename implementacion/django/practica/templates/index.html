@@ -1,0 +1,541 @@
+<!DOCTYPE html>
+<html>
+{% load static %} 
+{% load leaflet_tags %}
+<head>
+	{% leaflet_js %}
+	{% leaflet_css %}
+	<title>Gestion de la ciudad (DABD)</title>
+	<style type="text/css">
+		#gis {width:100%;height:800px;}
+		.legend {
+			line-height: 30px;
+			color: #555;
+		}
+		.legend i {
+			width: 15px;
+			height: 15px;
+			float: left;
+			margin-right: 10px;
+			opacity: 1;
+		}
+
+		.buttonTrafico {
+		  background-color: #4CAF50; /* Green */
+		  border: none;
+		  color: white;
+		  padding: 8px 8px;
+		  text-align: center;
+		  text-decoration: none;
+		  display: inline-block;
+		  font-size: 12px;
+		}
+
+		.buttonParking {
+		  background-color: #0000FF; /* Blue */
+		  border: none;
+		  color: white;
+		  padding: 8px 8px;
+		  text-align: center;
+		  text-decoration: none;
+		  display: inline-block;
+		  font-size: 12px;
+		}
+
+		h3 {
+ color: #111; font-family: 'Helvetica Neue', sans-serif; font-size: 38px; font-weight: bold; letter-spacing: -1px; line-height: 1; text-align: center;
+		}
+
+		.buttonRuta {
+		  background-color: #FF0000; /* Green */
+		  border: none;
+		  color: white;
+		  padding: 8px 8px;
+		  text-align: center;
+		  text-decoration: none;
+		  display: inline-block;
+		  font-size: 12px;
+		}
+
+		.info {
+			padding: 6px 8px;
+			font: 16px/18px Arial, Helvetica, sans-serif;
+			background: white;
+			width: 150px;
+			height: 160px;
+			background: rgba(255,255,255,0.8);
+			box-shadow: 0 0 0px rgba(0,0,0,0.2);
+			border-radius: 5px;
+		}
+		.info h4 {
+			margin: 0 0 0px;
+			color: #777;
+		}
+	</style>
+	<script type="text/javascript" src="{% static 'dist/leaflet.ajax.js' %}">
+		
+	</script>
+</head>
+<body>
+<h3>DASHBOARD</h3>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet-routing-machine@latest/dist/leaflet-routing-machine.css" />
+<script src="https://unpkg.com/leaflet-routing-machine@latest/dist/leaflet-routing-machine.js"></script>
+<table border="1" style="position:absolute; margin-top:850px; width:50%">
+	<tr>
+		<th>Calle</th>
+		<th>Congestion</th>
+	</tr>
+</table>
+<button id="1" class=buttonParking onClick="reply_click(this.id)">Muestra todos</button>
+<button id="2" class=buttonParking onClick="reply_click(this.id)">Muestra solo los libres</button>
+<button id="3" class=buttonParking onClick="reply_click(this.id)">Muestra solo los libres gratuitos</button>
+<button id="4" class=buttonParking onClick="reply_click(this.id)">Muestra solo los libres de pago</button>
+<button id="5" class=buttonParking onClick="reply_click(this.id)">Oculta parkings</button>
+<button id="6" class=buttonTrafico onClick="reply_click(this.id)">Elimina mapa de calor</button>
+<button id="7" class=buttonTrafico onClick="reply_click(this.id)">Restaura mapa de calor</button>
+<button id="8" class=buttonRuta onClick="reply_click(this.id)">Ruta hasta el parking mas cercano</button>
+<button id="9" class=buttonRuta onClick="reply_click(this.id)">Ruta hasta el parking mas cercano gratuito</button>
+<button id="10" class=buttonRuta onClick="reply_click(this.id)">Ruta hasta el parking mas cercano pago</button>
+<button id="11" class=buttonRuta onClick="reply_click(this.id)">Elimina ruta</button>
+<br>
+<script type="text/javascript">
+
+	var map = 0
+	var options = 0
+	var markers = []
+
+	var arrayParkings = []
+	var idcalle_congestion = {}
+	var arrayColores = ["#00FFFF","#00FFBF","#00FF80","#00FF40","#00FF00","#FFFF00","#FFBF00","#FF8000","#FF4000","#FF0000"]
+	var polygons = []
+	var routingControl = null
+	
+
+	var latPropia = 0	
+	var lonPropio = 0
+
+	function carga_limites_calles(){
+
+		var xhttp = new XMLHttpRequest();
+ 		xhttp.onreadystatechange = function() {
+ 			if (this.readyState == 4 && this.status == 200) {
+				valores = this.responseText.split('\n')
+				for (k in valores){
+					limites = valores[k].split('@@@')[1].split(" ")
+
+					descripcion = valores[k].split('@@@')[0].split("||")
+					nombreCalle = descripcion[0]
+					idCalle = descripcion[1]
+
+					//console.log(idCalle)
+
+					var boundingBox = [];
+
+					//console.log(limites)
+					for(var i = 0; i < limites.length; i += 2)
+					{
+						boundingBox.push([parseFloat(limites[i+1]), parseFloat(limites[i])]);
+					}
+
+					//console.log(boundingBox)
+					coordsJson = JSON.parse(JSON.stringify(boundingBox))
+					cantidad = idcalle_congestion[idCalle]
+					//console.log(cantidad)	
+
+
+					carga_poligono(cantidad, coordsJson, nombreCalle)
+					console.log(k)
+				}
+	
+			}
+ 		};
+ 		xhttp.open("GET", "static/limitesCalles.txt", true);
+		xhttp.send();
+
+	}
+
+	function muestra_layer_poligonos(){
+		if(this.polygons.length==0)
+			carga_limites_calles()
+
+		//console.log("voy a añadir" + this.polygons.length.toString)
+		for(var i = 0; i < this.polygons.length; i++){
+			this.map.addLayer(this.polygons[i]);
+			map.fitBounds(this.polygons[i].getBounds())
+		}
+		//console.log("añadido")
+	}
+
+
+	function carga_poligono(cantidad, coordsJson, nombreCalle) {
+
+		colorPoligono = "" 
+		//Selecciono el color del poligono
+		if (cantidad == 1) colorPoligono = arrayColores[0];
+		else if (cantidad < 10) colorPoligono = arrayColores[1];
+		else if (cantidad < 20) colorPoligono = arrayColores[2];
+		else if (cantidad < 30) colorPoligono = arrayColores[3];
+		else if (cantidad < 40) colorPoligono = arrayColores[4];
+		else if (cantidad < 50) colorPoligono = arrayColores[5];
+		else if (cantidad < 70) colorPoligono = arrayColores[6];
+		else if (cantidad < 100) colorPoligono = arrayColores[7];
+		else if (cantidad < 200) colorPoligono = arrayColores[8];
+		else colorPoligono = arrayColores[9];
+
+		//console.log(coordsJson)
+		
+		if(cantidad>0){
+			var polygon = L.polygon (coordsJson, {color: colorPoligono}).bindPopup(nombreCalle + ": " + cantidad.toString());
+			polygon.addTo(map);
+			map.fitBounds(polygon.getBounds());
+			polygons.push(polygon)
+		}
+		//console.log(coordsJson)
+
+	}
+
+	function reply_click(id){
+		if(id==1){
+			obten_parkings("todos")
+		}
+		else if(id==2) {
+			obten_parkings("libres")
+		}
+		else if(id==3) {
+			obten_parkings("libresGratis")
+		}
+		else if(id==4) {
+			obten_parkings("libresPago")
+		}
+		else if(id==5) {
+			elimina_layer_parkings()
+		}
+		else if(id==6) {
+			elimina_layer_polygons()
+		}
+		else if(id==7) {
+			muestra_layer_poligonos()
+		}
+		else if(id==8) {
+			ruta_hasta_parking_mas_cercano("todos")
+		}
+		else if(id==9) {
+			ruta_hasta_parking_mas_cercano("gratuito")
+		}
+		else if(id==10) {
+			ruta_hasta_parking_mas_cercano("pago")
+		}
+		else if(id==11) {
+			//las unidades por defecto son kilomtetros pero podrian ser millas por ej
+			elimina_ruta_hasta_parking_mas_cercano('K')
+		}
+
+	}
+
+	function ruta_hasta_parking_mas_cercano(opcion){
+
+		//map.locate({setView: true, maxZoom: 16});
+
+		//latPropia = map.getCenter()['lat']
+		//lonPropio = map.getCenter()['lng']
+
+		latPropia = 41.221293
+		lonPropio = 1.729728
+
+		dondeEstoy = {}
+		dondeEstoy['lat'] = latPropia
+		dondeEstoy['lng'] = lonPropio
+
+		//console.log(map.getCenter())
+		parkingCercano = encuentra_parking_cercano_libre(opcion)
+
+		console.log(parkingCercano)
+
+		park = {}
+		park['lat'] = parkingCercano[0]
+		park['lng'] = parkingCercano[1]
+
+		if(routingControl==null){
+			routingControl = L.Routing.control({
+			  waypoints: [
+				dondeEstoy,
+				park
+			  ]
+			})
+			var d = new Date();
+			var horaActual = d.getHours()
+			routingControl.addTo(map);
+
+			$.ajax({
+				type:'POST',
+				url:'/update_disponible/',
+				data:{
+					idParkingModelo: parkingCercano[5],
+					hora: horaActual,
+					csrfmiddlewaretoken: "{{ csrf_token }}"
+				},
+				success:function(){
+					alert('Estado del parking actualizado!')
+				}
+
+			});
+		}
+
+	}
+
+	function deg2rad(deg) {
+		return (deg * Math.PI / 180)
+	}
+
+	function rad2deg(rad) {
+		return (rad * 180 / Math.PI)
+	}
+
+	function encuentra_parking_cercano_libre (opcion) {
+		//Esto se tendria que usar con un server local de OSRM, no la distancia en linea recta
+		var indiceMin = -1
+		var distMin = parseFloat(1000000000000)
+
+		console.log(arrayParkings.length)
+		for (parking in  arrayParkings) {
+			if(opcion == "todos" || opcion=="gratuito" && arrayParkings[parking][2] == 0 || opcion=="pago" && arrayParkings[parking][2] >0){
+				//compruebo si esta libre
+				//console.log(arrayParkings)
+				if(arrayParkings[parking][4] == 1){
+
+					var dist = Math.sqrt(Math.pow(arrayParkings[parking][0] - latPropia,2) + Math.pow(arrayParkings[parking][1] - lonPropio,2))
+					//console.log(dist)
+
+					/*var theta = 0
+					var dist = 0
+					theta = lonPropio - arrayParkings[parking][1]
+
+					var dist = Math.sin(deg2rad(latPropia)) * Math.sin(deg2rad(arrayParkings[parking][0])) + Math.cos(deg2rad(latPropia)) * Math.cos(deg2rad(arrayParkings[parking][1])) * Math.cos(deg2rad(theta))
+
+					dist = Math.cos(dist)
+					dist = rad2deg(dist)
+					dist = dist * 60 * 1.1515;
+
+					if(unit=='K'){
+						dist = dist * 1.609344
+					}
+
+					else if(unit=='N'){
+						dist = dist * 0.8684
+				 	}
+	*/
+
+					//console.log(distMin,dist)
+
+					if(parseFloat(distMin)>parseFloat(dist)) {
+						indiceMin = parking
+						distMin = dist
+					}
+
+				}
+			}
+		}
+	
+
+		//console.log(distMin)
+
+		//console.log(indiceMin)
+
+		return arrayParkings[indiceMin]
+	
+	}
+
+	function elimina_ruta_hasta_parking_mas_cercano(){
+
+		map.removeControl(routingControl)
+		routingControl = null
+		map.locate({setView: true, maxZoom: 16});
+		//window.location.reload();
+		obten_parkings("todos")
+	}
+
+	function elimina_layer_polygons(){
+		//Elimina los marcadores si existen en el mapa
+		for(var i = 0; i < this.polygons.length; i++){
+			this.map.removeLayer(this.polygons[i]);
+		}
+
+	}
+
+	function elimina_layer_parkings(){
+		//Elimina los marcadores si existen en el mapa
+		for(var i = 0; i < this.markers.length; i++){
+			this.map.removeLayer(this.markers[i]);
+		}
+
+	}
+
+	function compruebaOpciones (opcion, parking){
+
+		return (opcion=="todos") || (info[parking].estaLibre && opcion == "libres") || (info[parking].estaLibre && opcion == "libresPago" && 
+				info[parking].idParkingModelo__idparking__precioPorHora > 0.0) || (info[parking].estaLibre && opcion == "libresGratis" && info[parking].idParkingModelo__idparking__precioPorHora == 0)
+
+	}
+
+	function creaMarker(lat,lon,estaLibre,idParkingModelo,precioPorHora){
+		var newMarker = null
+		if(precioPorHora>0){
+			var iconoParking = L.icon({
+				iconUrl: 'static/parkingPago.png',
+				iconsize:  [1,1],
+				iconAnchor: [1,1],
+				popupAnchor: [-3,-76]
+			});
+			newMarker = new L.marker([lat,lon], {icon: iconoParking, title: 'Coords: ' + lat + "," + lon + " " + 'Esta libre: ' + 			
+							estaLibre + ' idParkingModelo: ' + idParkingModelo + ' precioPorHora: ' + precioPorHora})
+		} else{
+			var iconoParking = L.icon({
+				iconUrl: 'static/parkingGratuito.png',
+				iconsize:  [1,1],
+				iconAnchor: [1,1],
+				popupAnchor: [-3,-76]
+			});
+			newMarker = new L.marker([lat,lon], {icon: iconoParking, title: 'Coords: ' + lat + "," + lon + " " + 'Esta libre: ' + 	
+							estaLibre + ' idParkingModelo: ' + idParkingModelo})	
+		}
+		return newMarker
+	}
+
+	function obten_parkings(opcion){
+	//si sonTodos esta a True mostraremos todos, sino solo los libres
+
+		elimina_layer_parkings()
+
+		var xhttp = new XMLHttpRequest();
+ 		xhttp.onreadystatechange = function() {
+ 			if (this.readyState == 4 && this.status == 200) {
+				info = JSON.parse(this.responseText)
+				//console.log(info);
+ 				for (parking in info){
+					//console.log(info[parking].estaLibre, info[parking].idParkingModelo__idparking__lat, info[parking].idParkingModelo__idparking__lon)
+					var seMuestra = compruebaOpciones (opcion, parking)
+					//console.log(seMuestra, opcion, parking)
+					if(seMuestra){
+						var id = info[parking].idParkingModelo__idparking
+						var idParkingModelo = info[parking].idParkingModelo
+						var lat = info[parking].idParkingModelo__idparking__lat
+						var lon = info[parking].idParkingModelo__idparking__lon
+						var precioPorHora = info[parking].idParkingModelo__idparking__precioPorHora
+						//console.log(precioPorHora)
+						var newMarker = null
+						var icono = 'static/parkingGratuito.png'
+
+						marker = creaMarker(lat.toString(),lon.toString(),info[parking].estaLibre.toString(),id, precioPorHora.toString())						
+
+						marker.addTo(map)
+						markers.push(marker)
+						//console.log(info[parking].properties.lat,info[parking].properties.lon, info[parking].properties.pk)
+
+						arrayParkings.push([lat,lon,precioPorHora,id,info[parking].estaLibre,idParkingModelo])
+						
+					}
+				}
+			}
+ 		};
+
+		//Optimizamos las queries
+
+		stringQuery = "disponible_data_tipo/" + opcion;
+		xhttp.open("GET", stringQuery, true);
+		xhttp.send();
+
+	}
+
+
+	function obten_trafico(){
+		var table = document.getElementsByTagName('table')[0];
+
+		var xhttp = new XMLHttpRequest();
+ 		xhttp.onreadystatechange = function() {
+ 			if (this.readyState == 4 && this.status == 200) {
+				info = JSON.parse(this.responseText)
+				//console.log(info);
+ 				for (traficoCalle in info){
+					//console.log(info[parking].properties.lat,info[parking].properties.lon, info[parking].properties.pk)
+						var newRow = table.insertRow(1);
+
+						var cel1 = newRow.insertCell(0);
+						var cel2 = newRow.insertCell(1);
+						
+						cel1.innerHTML = info[traficoCalle].idModeloCalle__idcalle__nombre;
+						cel2.innerHTML = info[traficoCalle].congestion;
+						idcalle_congestion [info[traficoCalle].idModeloCalle__idcalle] = info[traficoCalle].congestion
+				}
+			}
+ 		};
+ 		xhttp.open("GET", "trafico_data/", true);
+		xhttp.send();
+	}
+
+
+	function getColor(d){
+
+		if(d==1) return '#00FFFF'
+		else if(d <= 10) return '#00FFBF'
+		else if(d <= 20) return '#00FF80'
+		else if(d <= 30) return '#00FF40' 
+		else if(d <= 40) return '#00FF00'
+		else if(d <= 50) return '#FFFF00'
+		else if(d <= 70) return '#FFBF00'
+		else if(d <= 100) return '#FF8000' 
+		else if(d <= 200) return '#FF4000'
+		else return '#FF0000'
+
+	}
+
+	function carga_leyenda_mapa_calor(){
+
+		var legend = L.control({position: 'bottomright'});
+
+		legend.onAdd = function (map) {
+
+			var div = L.DomUtil.create('div', 'info legend'),
+				grades = [1, 10, 20, 30, 40, 50, 70, 100, 200],
+				labels = [];
+
+			// loop through our density intervals and generate a label with a colored square for each interval
+			for (var i = 0; i < grades.length; i++) {
+				if(i==0){
+					div.innerHTML +=
+						'<i style="background:' + getColor(grades[i] + 1) + '"></i> ' +
+						grades[i] + '<br>' ;
+
+				} else{
+					div.innerHTML +=
+						'<i style="background:' + getColor(grades[i] + 1) + '"></i> ' +
+						grades[i] + (grades[i + 1] ? '&ndash;' + grades[i + 1] + '<br>' : '+');
+				}
+			}
+
+			return div;
+		};
+
+	legend.addTo(map);
+
+	}
+
+	function muestra_datos(mapa,opciones){
+		map = mapa
+
+		map.locate({setView: true, maxZoom: 16});
+	
+
+		latPropia = map.getCenter()['lat']
+		lonPropio = map.getCenter()['lng']
+
+		options = opciones
+		obten_parkings("libres")
+		obten_trafico()
+		//carga_limites_calles()
+		carga_leyenda_mapa_calor()
+	}
+</script>
+{% leaflet_map "gis" callback="window.muestra_datos" %}
+</body>
+</html>
