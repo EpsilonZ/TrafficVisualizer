@@ -1,6 +1,6 @@
 # TrafficVisualizer
 
-__IMPORTANT:__ Here we'll use the generated files we've created with our CityVisualizer, go to that repo first if you didn't! https://github.com/EpsilonZ/CityVisualizer
+__IMPORTANT:__ Here we'll use the generated files we've created with our CityVisualizer, go to that repo first if you didn't! https://github.com/EpsilonZ/CityVisualizer.
 
 In this repo we'll use the traces we've generated from the CityVisualizer (you can see it on my repos) and visualize it with a simple Django App!
 
