@@ -4,14 +4,8 @@ import urllib.request
 import json
 import uuid
 
-# test dabd 1 nfqlHSVwBM495fo2p30eXdmiApotnHyz  0 usos
-# test dabd 2 As2IpfuyQ32q6nOE1i0sWCNDKT5fcGkN  0 usos
-# test dabd 3 kd0U1Se89n7Tong2F0kwb3iLYzaeGGpm  0 usos
-# test dabd 4 1zUwS6sTEQXpFgLNT5uLzNrdmiGuLGkE  3 usos
+API_KEY = 'YOUR API KEY'
 
-API_KEY = 'nfqlHSVwBM495fo2p30eXdmiApotnHyz'
-# Genera un mail random con http://www.yopmail.com/es/email-generator.php y date de alta en developer.mapquest.com con ese mail. hasta 15000 req
-# cada ejecucion de este programa son 3k peticiones mas o menos, te da para 5
 
 array_ways_encontrados = []
 

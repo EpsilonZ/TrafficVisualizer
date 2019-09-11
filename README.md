@@ -2,6 +2,9 @@
 
 In this repo we'll use the traces we've generated from the CityVisualizer (you can see it on my repos) and visualize it with a simple Django App!
 
+__NOTE:__ On this code you will have to change settings.py with your secret key from Django. Also, to use Mapquest API, you will have to create one and place it on Calle.py
+__NOTE2:__ You might get path errors, just change to your path when is required in the code
+
 What we'll do, before anything, is prepare our OS to have the needed packages.
 
 ## REQUIREMENTS
